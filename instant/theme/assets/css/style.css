@@ -69,7 +69,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #4a4a4a;
+    color: #1C2336;
 }
 
 
@@ -101,13 +101,13 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/IMG_1377.jpg) no-repeat center top;
+	background: url(../img/IMG_4035.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 900px;
 	width: 100%;
 
     -webkit-background-size: 100%;
@@ -123,6 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap h1 {
 	color:#ffffff;
+  margin-top: 110px;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
@@ -143,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #social i {
 	font-size: 40px;
-	color: #4a4a4a
+	color: #1C2336
 }
 
 #social i:hover {
@@ -153,68 +154,12 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #2f2f2f;
+	background-color: #1C2336;
 }
 
 #footerwrap p {
 	color: #f2f2f2;
 	margin-left: 10px;
-}
-
-#workwrap {
-	background: url(../img/work.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 650px;
-	width: 100%;
-
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#workwrap h1 {
-	color:#ffffff;
-	padding-top: 10px;
-	padding-bottom: 20px;
-	letter-spacing: 4px;
-	font-size: 80px;
-	font-weight: bold;
-}
-
-#workwrap h4 {
-	font-weight: 400;
-	color: #ffffff
-}
-
-#aboutwrap {
-	background: url(../img/about.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 550px;
-	width: 100%;
-
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 
