@@ -131,9 +131,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
-#headerwrap h4 {
+#headerwrap h4, h2 {
 	font-weight: 400;
 	color: #ffffff
+}
+
+#headerwrap a {
+  color: #ffffff;
+  font-size: 50px;
 }
 
 #social {
