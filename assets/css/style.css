@@ -148,10 +148,19 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* Gallery */
+
+#works h1{
+  margin-bottom: 35px;
+}
+
 .gallery .gallery-no-hover {
 	margin-top: 30px;
 }
 
 .gallery img:hover {
 	opacity: 0.4;
+}
+
+.gallery p, .gallery-no-hover p{
+  margin-bottom: 25px;
 }
